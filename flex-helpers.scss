@@ -115,3 +115,12 @@
 
     @extend %helper--list;
 }
+%helper—-sec {
+    display: flex;
+
+    max-width: 100%;
+
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    @extend %helper--flex--center--top;
+}
