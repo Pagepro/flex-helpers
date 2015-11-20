@@ -21,8 +21,16 @@
 
 ## Installation
 
-Installation is very basic. One thing you need to do is add file flex-helpers to your sass files and compile project.
+1. Download flex-helpers from Github or using npm:
 
+```shell
+npm install flex-helpers
+```
+2. Add flex-helpers file to your sass files and compile project.
+
+```css
+@import "node_modules/flex-helpers/flex-helpers";
+```
 
 ##Using helpers
 
