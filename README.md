@@ -42,7 +42,7 @@ When You want use helpers, You should extend to your element style, one of helpe
 
 #####EXAMPLE:
 
-```
+```css
 .content {
     @extend %helper--flex-center-top;
  }
