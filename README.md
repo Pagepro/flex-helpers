@@ -11,7 +11,7 @@
 
 ## Table of contents
 >* [Requirements](#requirements)
-* [Installation](#instalation)
+* [Installation](#installation)
 * [Features](#feature-set)
 * [Documentation](#documentation)
 
