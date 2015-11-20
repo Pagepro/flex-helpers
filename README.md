@@ -36,8 +36,8 @@ When You want use helpers, You should extend to your element style, one of helpe
 
 ```
 .content {
-@extend %helper--flex-center-top;
-}
+    @extend %helper--flex-center-top;
+ }
 ```
 
 ## Feature Set
@@ -66,7 +66,7 @@ When You want use helpers, You should extend to your element style, one of helpe
 ### %helper--flex--center--top
 > Sets up the elements vertically top and horizontally center.
 
-![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docsflex-center-top.PNG "flex-center-top")
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex-center-top.PNG "flex-center-top")
 
 ### %helper--flex--center--center
 > Sets up the elements vertically and horizontally center.
