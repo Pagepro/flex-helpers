@@ -136,6 +136,8 @@ When You want use helpers, You should extend to your element style, one of helpe
 ### %helper--flex--vertical-space-between
 > Sets up the elements with horizontally space between elements without space at content side.
 
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex-vertical-space-between.PNG "flex-vertical-space-between")
+
 ### %helper--list--flex
 > Reset margins and paddings, delete list-style type and sets up the list elements display flexy with auto margins.
 
