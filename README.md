@@ -12,7 +12,7 @@
 ## Table of contents
 >* [Requirements](#requirements)
 * [Installation](#instalation)
-* [Features](#features)
+* [Features](#feature-set)
 * [Documentation](#documentation)
 
 ## Requirements
