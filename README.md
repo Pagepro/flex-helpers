@@ -10,16 +10,16 @@
 
 
 ## Table of contents
->* [Requirements](#Requirements)
-* [Installation](#Instalation)
-* [Features](#Features)
-* [Documentation](#Documentation)
+>* [Requirements](#requirements)
+* [Installation](#instalation)
+* [Features](#features)
+* [Documentation](#documentation)
 
 ## Requirements
 
 1. Need to use SASS in your Project.
 
-##Installation
+## Installation
 
 Installation is very basic. One thing you need to do is add file flex-helpers to your sass files and compile project.
 
