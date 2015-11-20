@@ -1,6 +1,6 @@
 #FlexHelpers
 
-**FlexHelpers** allows to you use flexbox on our site without know flex properties.
+**FlexHelpers** allows to you use flexbox on your site without know flex properties.
 
 ###Benefits
 >* You can easily add flexbox display to contenets on your site.
