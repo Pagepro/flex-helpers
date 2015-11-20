@@ -32,31 +32,32 @@ When You want use helpers, You should extend to your element style, one of helpe
 @extend 'feature';
 ```
 
->#####EXAMPLE:
+#####EXAMPLE:
 
 ```
-.content {	@extend %helper--flex-center-top;
+.content {
+@extend %helper--flex-center-top;
 }
 ```
 
 ## Feature Set
-* [%helper--flex--center--top](#%helper--flex--center--top)
+* [%helper--flex--center--top](#helper--flex--center--top)
 * [%helper--flex--center--center](#helper--flex--center--center)
-* [%helper--flex--center--bottom](#%helper--flex--center--bottom)
-* [%helper--flex--center--space-between](#%helper--flex--center--space-between)
-* [%helper--flex--space-between--top](#%helper--flex--space-between--top)
-* [%helper--flex--space-between--center](#%helper--flex--space-between--center)
-* [%helper--flex--space-between--bottom](#%helper--flex--space-between--bottom)
-* [%helper--flex--left--top](#%helper--flex--left--top)
-* [%helper--flex--left--center](#%helper--flex--left--center)
-* [%helper--flex--left--bottom](#%helper--flex--left--bottom)
-* [%helper--flex--right--center](#%helper--flex--right--center)
-* [%helper--flex--right--bottom](#%helper--flex--right--bottom)
-* [%helper--flex--stretch](#%helper--flex--stretch)
+* [%helper--flex--center--bottom](#helper--flex--center--bottom)
+* [%helper--flex--center--space-between](#helper--flex--center--space-between)
+* [%helper--flex--space-between--top](#helper--flex--space-between--top)
+* [%helper--flex--space-between--center](#helper--flex--space-between--center)
+* [%helper--flex--space-between--bottom](#helper--flex--space-between--bottom)
+* [%helper--flex--left--top](#helper--flex--left--top)
+* [%helper--flex--left--center](#helper--flex--left--center)
+* [%helper--flex--left--bottom](#helper--flex--left--bottom)
+* [%helper--flex--right--center](#helper--flex--right--center)
+* [%helper--flex--right--bottom](#helper--flex--right--bottom)
+* [%helper--flex--stretch](#helper--flex--stretch)
 * [%helper--flex--vertical-space-between](#%helper--flex--vertical-space-between)
-* [%helper--list](#%helper--list)
-* [%helper--list--flex](#%helper--list--flex)
-* [%helper—-sec](#%helper—-sec)
+* [%helper--list](#helper--list)
+* [%helper--list--flex](#helper--list--flex)
+* [%helper—-sec](#helper—-sec)
 
 
 ## Documentation
@@ -65,7 +66,7 @@ When You want use helpers, You should extend to your element style, one of helpe
 ### %helper--flex--center--top
 > Sets up the elements vertically top and horizontally center.
 
-![alt text](http://cdn.pagepro.pl/flex-helpers/docs/flex-center-top.PNG "flex-center-top")
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docsflex-center-top.PNG "flex-center-top")
 
 ### %helper--flex--center--center
 > Sets up the elements vertically and horizontally center.
