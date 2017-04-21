@@ -224,3 +224,198 @@ When You want use helpers, You should include to your element style, one of help
 > Sets up component's children.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--space-around.png "flex--left--space-around")
+
+### helper--flex--center--top // helper--inline-flex--center--top
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--top.png "flex--center--top")
+
+### helper--flex--center--center // helper--inline-flex--center--center
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--center.png "flex--center--center")
+
+### helper--flex--center--bottom // helper--inline-flex--center--bottom
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--bottom.png "flex--center--bottom")
+
+### helper--flex--center--stretch // helper--inline-flex--center--stretch
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--stretch.png "flex--center--stretch")
+
+### helper--flex--center--space-between // helper--inline-flex--center--space-between
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--space-between.png "flex--center--space-between")
+
+### helper--flex--center--space-around // helper--inline-flex--center--space-around
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--space-around.png "flex--center--space-around")
+
+### helper--flex--right--top // helper--inline-flex--right--top
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--top.png "flex--right--top")
+
+### helper--flex--right--center // helper--inline-flex--right--center
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--center.png "flex--right--center")
+
+### helper--flex--right--bottom // helper--inline-flex--right--bottom
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--bottom.png "flex--right--bottom")
+
+### helper--flex--right--stretch // helper--inline-flex--right--stretch
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--stretch.png "flex--right--stretch")
+
+### helper--flex--right--space-between // helper--inline-flex--right--space-between
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--space-between.png "flex--right--space-between")
+
+### helper--flex--right--space-around // helper--inline-flex--right--space-around
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--space-around.png "flex--right--space-around")
+
+### helper--flex--space-between--top // helper--inline-flex--space-between--top
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--top.png "flex--space-between--top")
+
+### helper--flex--space-between--center // helper--inline-flex--space-between--center
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--center.png "flex--space-between--center")
+
+### helper--flex--space-between--bottom // helper--inline-flex--space-between--bottom
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--bottom.png "flex--space-between--bottom")
+
+### helper--flex--space-between--stretch // helper--inline-flex--space-between--stretch
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--stretch.png "flex--space-between--stretch")
+
+### helper--flex--space-between--space-between // helper--inline-flex--space-between--space-between
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--space-between.png "flex--space-between--space-between")
+
+### helper--flex--space-between--space-around // helper--inline-flex--space-between--space-around
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--space-around.png "flex--space-between--space-around")
+
+### helper--flex--space-around--top // helper--inline-flex--space-around--top
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--top.png "flex--space-around--top")
+
+### helper--flex--space-around--center // helper--inline-flex--space-around--center
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--center.png "flex--space-around--center")
+
+### helper--flex--space-around--bottom // helper--inline-flex--space-around--bottom
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--bottom.png "flex--space-around--bottom")
+
+### helper--flex--space-around--stretch // helper--inline-flex--space-around--stretch
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--stretch.png "flex--space-around--stretch")
+
+### helper--flex--space-around--space-between // helper--inline-flex--space-around--space-between
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--space-between.png "flex--space-around--space-between")
+
+### helper--flex--space-around--space-around // helper--inline-flex--space-around--space-around
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--space-around.png "flex--space-around--space-around")
+
+### helper--flex--top--left // helper--inline-flex--top--left
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--top--left.png "flex--top--left")
+
+### helper--flex--top--center // helper--inline-flex--top--center
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--top--center.png "flex--top--center")
+
+### helper--flex--top--right // helper--inline-flex--top--right
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--top--right.png "flex--top--right")
+
+### helper--flex--center--left // helper--inline-flex--center--left
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--left.png "flex--center--left")
+
+### helper--flex--center--center--column // helper--inline-flex--center--center--column
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--center--column.png "flex--center--center--column")
+
+### helper--flex--center--right // helper--inline-flex--center--right
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--right.png "flex--center--right")
+
+### helper--flex--bottom--left // helper--inline-flex--bottom--left
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--bottom--left.png "flex--bottom--left")
+
+### helper--flex--bottom--center // helper--inline-flex--bottom--center
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--bottom--center.png "flex--bottom--center")
+
+### helper--flex--bottom--right // helper--inline-flex--bottom--right
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--bottom--right.png "flex--bottom--right")
+
+### helper--flex--space-between--left // helper--inline-flex--space-between--left
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--left.png "flex--space-between--left")
+
+### helper--flex--space-between--center--column // helper--inline-flex--space-between--center--column
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--center--column.png "flex--space-between--center--column")
+
+### helper--flex--space-between--right // helper--inline-flex--space-between--right
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--right.png "flex--space-between--right")
+
+### helper--flex--space-around--left // helper--inline-flex--space-around--left
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--left.png "flex--space-around--left")
+
+### helper--flex--space-around--center--column // helper--inline-flex--space-around--center--column
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--center--column.png "flex--space-around--center--column")
+
+### helper--flex--space-around--right // helper--inline-flex--space-around--right
+> Sets up component's children.
+
+![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--right.png "flex--space-around--right")
