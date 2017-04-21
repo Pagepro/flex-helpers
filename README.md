@@ -196,32 +196,32 @@ When You want use helpers, You should include to your element style, one of help
 
 
 ### helper--flex--left--top // helper--inline-flex--left--top
-> Sets up component's children.
+> Sets up component's children to left top corner. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--top.png "flex--left--top")
 
 ### helper--flex--left--center // helper--inline-flex--left--center
-> Sets up component's children.
+> Sets up component's children horizontally to left, vertically to center. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--center.png "flex--left--center")
 
 ### helper--flex--left--bottom // helper--inline-flex--left--bottom
-> Sets up component's children.
+> Sets up component's children to left bottom corner. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--bottom.png "flex--left--bottom")
 
 ### helper--flex--left--stretch // helper--inline-flex--left--stretch
-> Sets up component's children.
+> Sets up component's children to left corner and stretch their height to 100% of row's height. Children height property can't be set to any value, otherwise stretch won't work. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--stretch.png "flex--left--stretch")
 
 ### helper--flex--left--space-between // helper--inline-flex--left--space-between
-> Sets up component's children.
+> Works only with multirows. Sets up component's children horizontally to left, vertically: 1st row is aligned to top, last row to bottom. If there is more than 2 rows - middle rows are centered, dividing vertical space between them on equal parts.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--space-between.png "flex--left--space-between")
 
 ### helper--flex--left--space-around // helper--inline-flex--left--space-around
-> Sets up component's children.
+> Works only with multirows. Sets up component's children horizontally to left, vertically: rows are centered, dividing vertical space between them on equal parts.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--space-around.png "flex--left--space-around")
 
