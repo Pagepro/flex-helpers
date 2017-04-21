@@ -226,47 +226,47 @@ When You want use helpers, You should include to your element style, one of help
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--space-around.png "flex--left--space-around")
 
 ### helper--flex--center--top // helper--inline-flex--center--top
-> Sets up component's children.
+> Sets up component's children horizontally to center, vertically to top. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--top.png "flex--center--top")
 
 ### helper--flex--center--center // helper--inline-flex--center--center
-> Sets up component's children.
+> Sets up component's children horizontally and vertically both to center. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--center.png "flex--center--center")
 
 ### helper--flex--center--bottom // helper--inline-flex--center--bottom
-> Sets up component's children.
+> Sets up component's children horizontally to center, vertically to bottom. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--bottom.png "flex--center--bottom")
 
 ### helper--flex--center--stretch // helper--inline-flex--center--stretch
-> Sets up component's children.
+> Sets up component's children horizontally to center and stretch their height to 100% of row's height. Children height property can't be set to any value, otherwise stretch won't work. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--stretch.png "flex--center--stretch")
 
 ### helper--flex--center--space-between // helper--inline-flex--center--space-between
-> Sets up component's children.
+> Works only with multirows. Sets up component's children horizontally to center, vertically: 1st row is aligned to top, last row to bottom. If there is more than 2 rows - middle rows are centered, dividing vertical space between them on equal parts.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--space-between.png "flex--center--space-between")
 
 ### helper--flex--center--space-around // helper--inline-flex--center--space-around
-> Sets up component's children.
+> Works only with multirows. Sets up component's children horizontally to center, vertically: rows are centered, dividing vertical space between them on equal parts.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--center--space-around.png "flex--center--space-around")
 
 ### helper--flex--right--top // helper--inline-flex--right--top
-> Sets up component's children.
+> Sets up component's children to right top corner. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--top.png "flex--right--top")
 
 ### helper--flex--right--center // helper--inline-flex--right--center
-> Sets up component's children.
+> Sets up component's children horizontally to right, vertically to center. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--center.png "flex--right--center")
 
 ### helper--flex--right--bottom // helper--inline-flex--right--bottom
-> Sets up component's children.
+> Sets up component's children to right bottom corner. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--bottom.png "flex--right--bottom")
 
