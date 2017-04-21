@@ -61,6 +61,38 @@ When You want use helpers, You should include to your element style, one of help
 * [helper--flex--left--space-between](#helper--flex--left--space-between)
 * [helper--flex--left--space-around](#helper--flex--left--space-around)
 
+#### - flex row with children horizontally centered:
+* [helper--flex--center--top](#helper--flex--center--top)
+* [helper--flex--center--center](#helper--flex--center--center)
+* [helper--flex--center--bottom](#helper--flex--center--bottom)
+* [helper--flex--center--stretch](#helper--flex--center--stretch)
+* [helper--flex--center--space-between](#helper--flex--center--space-between)
+* [helper--flex--center--space-around](#helper--flex--center--space-around)
+
+#### - flex row with children positionned horizontally to right:
+* [helper--flex--right--top](#helper--flex--right--top)
+* [helper--flex--right--center](#helper--flex--right--center)
+* [helper--flex--right--bottom](#helper--flex--right--bottom)
+* [helper--flex--right--stretch](#helper--flex--right--stretch)
+* [helper--flex--right--space-between](#helper--flex--right--space-between)
+* [helper--flex--right--space-around](#helper--flex--right--space-around)
+
+#### - flex row with children positionned horizontally space-between:
+* [helper--flex--space-between--top](#helper--flex--space-between--top)
+* [helper--flex--space-between--center](#helper--flex--space-between--center)
+* [helper--flex--space-between--bottom](#helper--flex--space-between--bottom)
+* [helper--flex--space-between--stretch](#helper--flex--space-between--stretch)
+* [helper--flex--space-between--space-between](#helper--flex--space-between--space-between)
+* [helper--flex--space-between--space-around](#helper--flex--space-between--space-around)
+
+#### - flex row with children positionned horizontally space-around:
+* [helper--flex--space-around--top](#helper--flex--space-around--top)
+* [helper--flex--space-around--center](#helper--flex--space-around--center)
+* [helper--flex--space-around--bottom](#helper--flex--space-around--bottom)
+* [helper--flex--space-around--stretch](#helper--flex--space-around--stretch)
+* [helper--flex--space-around--space-between](#helper--flex--space-around--space-between)
+* [helper--flex--space-around--space-around](#helper--flex--space-around--space-around)
+
 ## Flex column
 **Flex row helpers** allows to you position component's children in column
 
