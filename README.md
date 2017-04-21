@@ -191,24 +191,6 @@ When You want use helpers, You should include to your element style, one of help
 * [helper--inline-flex--space-around--center](#helper--inline-flex--space-around--center)
 * [helper--inline-flex--space-around--right](#helper--inline-flex--space-around--right)
 
-* [%helper--flex--center--top](#helper--flex--center--top)
-* [%helper--flex--center--center](#helper--flex--center--center)
-* [%helper--flex--center--bottom](#helper--flex--center--bottom)
-* [%helper--flex--center--space-between](#helper--flex--center--space-between)
-* [%helper--flex--space-between--top](#helper--flex--space-between--top)
-* [%helper--flex--space-between--center](#helper--flex--space-between--center)
-* [%helper--flex--space-between--bottom](#helper--flex--space-between--bottom)
-* [%helper--flex--left--top](#helper--flex--left--top)
-* [%helper--flex--left--center](#helper--flex--left--center)
-* [%helper--flex--left--bottom](#helper--flex--left--bottom)
-* [%helper--flex--right--center](#helper--flex--right--center)
-* [%helper--flex--right--bottom](#helper--flex--right--bottom)
-* [%helper--flex--stretch](#helper--flex--stretch)
-* [%helper--flex--vertical-space-between](#%helper--flex--vertical-space-between)
-* [%helper--list](#helper--list)
-* [%helper--list--flex](#helper--list--flex)
-* [%helper—-sec](#helper—-sec)
-
 
 ## Documentation
 
