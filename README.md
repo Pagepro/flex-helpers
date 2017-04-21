@@ -199,4 +199,3 @@ When You want use helpers, You should include to your element style, one of help
 > Sets up component's children.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--left--top.png "flex--left--top")
-
