@@ -1,8 +1,8 @@
-#FlexHelpers
+# FlexHelpers
 
 **FlexHelpers** allows to you use flexbox on your site without know flex properties.
 
-###Benefits
+### Benefits
 >* You can easily add flexbox display to contenets on your site.
 * Easier positioning elements relative to each other.
 * Faster adjusting the elements.
@@ -34,17 +34,17 @@ npm install flex-helpers
 
 ##Using helpers
 
-When You want use helpers, You should extend to your element style, one of helper features.
+When You want use helpers, You should include to your element style, one of helper features.
 
 ```
-@extend 'feature';
+@include 'feature';
 ```
 
 #####EXAMPLE:
 
 ```css
 .content {
-    @extend %helper--flex-center-top;
+    @include helper--flex--left--center;
  }
 ```
 

@@ -326,7 +326,7 @@
     @include helper--align--end;
 }
 
-/* flex column vertical space between
+/* flex column vertical space auround
    ========================================================================== */
 @mixin helper--flex--space-around--left () {
     @include helper--flex--column;    
@@ -596,7 +596,7 @@
     @include helper--align--end;
 }
 
-/* inline-flex column vertical space between
+/* inline-flex column vertical space around
    ========================================================================== */
 @mixin helper--inline-flex--space-around--left () {
     @include helper--inline-flex--column;    
