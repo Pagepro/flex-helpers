@@ -271,37 +271,37 @@ When You want use helpers, You should include to your element style, one of help
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--bottom.png "flex--right--bottom")
 
 ### helper--flex--right--stretch // helper--inline-flex--right--stretch
-> Sets up component's children.
+> Sets up component's children to right corner and stretch their height to 100% of row's height. Children height property can't be set to any value, otherwise stretch won't work. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--stretch.png "flex--right--stretch")
 
 ### helper--flex--right--space-between // helper--inline-flex--right--space-between
-> Sets up component's children.
+> Works only with multirows. Sets up component's children horizontally to right, vertically: 1st row is aligned to top, last row to bottom. If there is more than 2 rows - middle rows are centered, dividing vertical space between them on equal parts.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--space-between.png "flex--right--space-between")
 
 ### helper--flex--right--space-around // helper--inline-flex--right--space-around
-> Sets up component's children.
+> Works only with multirows. Sets up component's children horizontally to right, vertically: rows are centered, dividing vertical space between them on equal parts.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--right--space-around.png "flex--right--space-around")
 
 ### helper--flex--space-between--top // helper--inline-flex--space-between--top
-> Sets up component's children.
+> Sets up component's children vertically to top, horizontally: 1st child is justified to left, last one is justified to right, all children between the 1st and the last ones are justified center, dividing horizontal space between them on equal parts. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--top.png "flex--space-between--top")
 
 ### helper--flex--space-between--center // helper--inline-flex--space-between--center
-> Sets up component's children.
+> Sets up component's children vertically to center, horizontally: 1st child is justified to left, last one is justified to right, all children between the 1st and the last ones are justified center, dividing horizontal space between them on equal parts. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--center.png "flex--space-between--center")
 
 ### helper--flex--space-between--bottom // helper--inline-flex--space-between--bottom
-> Sets up component's children.
+> Sets up component's children vertically to bottom, horizontally: 1st child is justified to left, last one is justified to right, all children between the 1st and the last ones are justified center, dividing horizontal space between them on equal parts. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--bottom.png "flex--space-between--bottom")
 
 ### helper--flex--space-between--stretch // helper--inline-flex--space-between--stretch
-> Sets up component's children.
+> Sets up component's children horizontally: 1st child is justified to left, last one is justified to right, all children between the 1st and the last ones are justified center, dividing horizontal space between them on equal parts. Vertically stretch childrens' height to 100% of row's height. Children height property can't be set to any value, otherwise stretch won't work. If multirow needed 'flex-wrap: wrap' property has to be added to component styles.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--stretch.png "flex--space-between--stretch")
 
@@ -316,7 +316,7 @@ When You want use helpers, You should include to your element style, one of help
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-between--space-around.png "flex--space-between--space-around")
 
 ### helper--flex--space-around--top // helper--inline-flex--space-around--top
-> Sets up component's children.
+> Sets up component's children vertically to top, horizontally children are centered, dividing horizontal space between them on equal parts.
 
 ![alt text](https://raw.githubusercontent.com/Pagepro/flex-helpers/master/docs/flex--space-around--top.png "flex--space-around--top")
 
