@@ -32,7 +32,7 @@ npm install flex-helpers
 @import "node_modules/flex-helpers/flex-helpers";
 ```
 
-##Using helpers
+## Using helpers
 
 When You want use helpers, You should include to your element style, one of helper features.
 
@@ -40,7 +40,7 @@ When You want use helpers, You should include to your element style, one of help
 @include 'feature';
 ```
 
-#####EXAMPLE:
+##### EXAMPLE:
 
 ```css
 .content {
@@ -48,7 +48,28 @@ When You want use helpers, You should include to your element style, one of help
  }
 ```
 
-## Feature Set
+# Feature Set
+
+## Flex row
+**Flex row helpers** allows to you position component's children in row
+
+#### - flex row with children positionned horizontally to left:
+* [helper--flex--left--top](#helper--flex--left--top)
+* [helper--flex--left--center](#helper--flex--left--center)
+* [helper--flex--left--bottom](#helper--flex--left--bottom)
+* [helper--flex--left--stretch](#helper--flex--left--stretch)
+* [helper--flex--left--space-between](#helper--flex--left--space-between)
+* [helper--flex--left--space-around](#helper--flex--left--space-around)
+
+## Flex column
+**Flex row helpers** allows to you position component's children in column
+
+## Inline-flex row
+**Inline-flex row helpers** allows to you position component's children in row
+
+## Inline-flex column
+**Inline-flex row helpers** allows to you position component's children in column
+
 * [%helper--flex--center--top](#helper--flex--center--top)
 * [%helper--flex--center--center](#helper--flex--center--center)
 * [%helper--flex--center--bottom](#helper--flex--center--bottom)
