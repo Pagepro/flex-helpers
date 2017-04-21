@@ -113,12 +113,12 @@ When You want use helpers, You should include to your element style, one of help
 
 #### - flex column with children positionned vertically space-between:
 * [helper--flex--space-between--left](#helper--flex--space-between--left)
-* [helper--flex--space-between--center](#helper--flex--space-between--center)
+* [helper--flex--space-between--center--column](#helper--flex--space-between--center--column)
 * [helper--flex--space-between--right](#helper--flex--space-between--right)
 
 #### - flex column with children positionned vertically space-around:
 * [helper--flex--space-around--left](#helper--flex--space-around--left)
-* [helper--flex--space-around--center](#helper--flex--space-around--center)
+* [helper--flex--space-around--center--column](#helper--flex--space-around--center--column)
 * [helper--flex--space-around--right](#helper--flex--space-around--right)
 
 **Inline-flex row helpers** allows to you position component's children in row
@@ -183,12 +183,12 @@ When You want use helpers, You should include to your element style, one of help
 
 #### - inline-flex column with children positionned vertically space-between:
 * [helper--inline-flex--space-between--left](#helper--inline-flex--space-between--left)
-* [helper--inline-flex--space-between--center](#helper--inline-flex--space-between--center)
+* [helper--inline-flex--space-between--center--column](#helper--inline-flex--space-between--center--column)
 * [helper--inline-flex--space-between--right](#helper--inline-flex--space-between--right)
 
 #### - inline-flex column with children positionned vertically space-around:
 * [helper--inline-flex--space-around--left](#helper--inline-flex--space-around--left)
-* [helper--inline-flex--space-around--center](#helper--inline-flex--space-around--center)
+* [helper--inline-flex--space-around--center--column](#helper--inline-flex--space-around--center--column)
 * [helper--inline-flex--space-around--right](#helper--inline-flex--space-around--right)
 
 
