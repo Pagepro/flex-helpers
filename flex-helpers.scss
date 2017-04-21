@@ -315,7 +315,7 @@
     @include helper--justify--space-between;
     @include helper--align--start;
 }
-@mixin helper--flex--space-between--center () {
+@mixin helper--flex--space-between--center--column () {
     @include helper--flex--column;    
     @include helper--justify--space-between;
     @include helper--align--center;
@@ -333,7 +333,7 @@
     @include helper--justify--space-around;
     @include helper--align--start;
 }
-@mixin helper--flex--space-around--center () {
+@mixin helper--flex--space-around--center--column () {
     @include helper--flex--column;    
     @include helper--justify--space-around;
     @include helper--align--center;
@@ -585,7 +585,7 @@
     @include helper--justify--space-between;
     @include helper--align--start;
 }
-@mixin helper--inline-flex--space-between--center () {
+@mixin helper--inline-flex--space-between--center--column () {
     @include helper--inline-flex--column;    
     @include helper--justify--space-between;
     @include helper--align--center;
@@ -603,7 +603,7 @@
     @include helper--justify--space-around;
     @include helper--align--start;
 }
-@mixin helper--inline-flex--space-around--center () {
+@mixin helper--inline-flex--space-around--center--column () {
     @include helper--inline-flex--column;    
     @include helper--justify--space-around;
     @include helper--align--center;
